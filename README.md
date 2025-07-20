@@ -97,8 +97,7 @@ github - [@PremSainathReddy](https://github.com/PremSainathReddy)
 
 Email: premsainathreddy1234@gmail.com
 
-LinkedIn: [@thisdataguy](www.linkedin.com/in/thisdataguy)
-
+LinkedIn: [@thisdataguy](https://www.linkedin.com/in/thisdataguy)
 
 
 ## License
